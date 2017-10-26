@@ -1,0 +1,285 @@
+body {
+	font: Arial;
+} 
+
+#ten {
+	border-top: 0.5px black solid;
+}
+
+#one {
+
+
+}
+
+#pickles {
+	padding-left: 20px;
+}
+
+a:hover {
+	color: pink;
+}
+
+#lettuce {
+	padding-left: 20px;
+}
+
+#cheese {
+	padding-left: 20px;
+}
+#salad {
+	padding-top: 30px;
+	
+	padding-left: 20px;
+}
+
+#two {
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 2px black solid;
+	margin-right: 30px;
+	width: 300px;
+	background-color: F5F6F7;
+	border-color: B7C3CF;
+	float: left;
+
+
+}
+
+#three {
+	float: right;
+	padding-right: 100px;
+	padding-bottom: 20px;
+	
+}
+
+
+#four {
+	padding-left: 10px;
+	padding-top: 320px;
+}
+
+#seven {
+	padding-left: 180px;
+}
+
+#six {
+	float: left;
+	padding-right: 16px;
+	padding-bottom: 5px;
+	height: 240px;
+	border: 1px black solid;
+	background-color: F5F6F7;
+	border-color: B7C3CF;
+	margin-right: 10px;
+	padding-left: 16px;
+	padding-top: 5px;
+
+}
+
+#eight {
+}
+
+#eleven {
+	float: right;
+	padding-top: 40px;
+	padding-left: 60px;
+	padding-right: 60px;
+	border: 1px black solid;
+	width: 200px;
+	padding-bottom: 30px;
+	background-color: F5F6F7;
+	border-color: B7C3CF;
+}
+
+
+
+#oop {
+	float: right;
+	padding-top: 300px;
+	padding-left: 10px;
+}
+#twelve {
+	border-top: 1px black solid;
+}
+
+#thirteen {
+	border-top: 1px black solid;
+
+}
+
+##sixty {
+	border-top: 1px black solid;
+	margin-top: 6px;
+	border-bottom: 1px solid;
+
+}
+#popcorn {
+	  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+
+    -webkit-column-rule: 2px outset #ff00ff; /* Chrome, Safari, Opera */
+    -moz-column-rule: 2px outset #ff00ff; /* Firefox */
+    column-rule: 2px outset #ff00ff;
+}
+#top {
+	
+	font-size: 14;
+	margin-bottom: 5px;
+
+}
+
+#bottom {
+	
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+}
+
+#salmon {
+	
+	font-size: 14;
+	margin-bottom: 5px;
+	
+}
+
+#chicken {
+	
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+	
+	
+}
+
+#pizza {
+	
+	font-size: 14;
+	margin-bottom: 5px;
+
+}
+
+#bagel {
+
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+
+}
+
+#brownie {
+	font-size: 14;
+	margin-bottom: 5px;
+
+}
+
+#egg {
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+}
+
+#cookies {
+	font-size: 14;
+	margin-bottom: 5px;
+	padding-right: 60px;
+	}
+
+#milk {
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+	}
+
+#turkey {
+	font-size: 14;
+	margin-bottom: 5px;
+	
+	}
+	
+#walnut {
+	font-size: 14;
+	margin-bottom: 5px;
+	float: right;
+}
+
+#twentyone {
+	margin-bottom: 5px;
+}
+
+#twentytwo {
+	margin-bottom: 5px;
+}
+
+#twentythree {
+	margin-bottom: 5px;
+}
+
+#twentyfour {
+	margin-bottom: 5px;
+}
+
+#twentyfive {
+	margin-bottom: 5px;
+}
+
+#twentysix {
+	margin-bottom: 5px;
+}
+
+#twentyseven {
+	margin-bottom: 5px;
+}
+
+#twentyeight {
+	margin-bottom: 5px;
+}
+
+#thirtyone {
+	margin-bottom: 5px;
+}
+
+#thirtytwo {
+	margin-bottom: 5px;
+}
+
+#thirtythree {
+	margin-bottom: 5px;
+}
+
+#thirtyfour {
+	margin-bottom: 5px;
+}
+
+#thirtyfive {
+	margin-bottom: 5px;
+}
+
+#thirtysix {
+	margin-bottom: 5px;
+}
+
+#thirtyseven {
+	margin-bottom: 5px;
+}
+
+#thirtyeight {
+	margin-bottom: 5px;
+}
+
+#thirtynine {
+	margin-bottom: 5px;
+}
+
+#forty {
+	margin-bottom: 5px;
+}
+
+
+
+	
